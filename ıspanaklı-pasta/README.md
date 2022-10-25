@@ -3,7 +3,7 @@
 
 # Malzemeler
 - Keki için
-  - 3 adet yumurta
+  - 4 adet yumurta
   - 1 su bardağı toz şeker
   - 1 çay bardağı sıvı yağ
   - 1 su bardağı ıspanak püresi
